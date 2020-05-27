@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sdx:platform sdx:vendor="xilinx.com"
+              sdx:library="sdx"
+              sdx:name="ultra96"
+              sdx:version="1.0"
+              sdx:schemaVersion="1.0"
+              xmlns:sdx="http://www.xilinx.com/sdx">
+    <sdx:description>
+Ultra96 V2
+    </sdx:description>
+    <sdx:systemConfigurations sdx:defaultConfiguration="linux">
+        <sdx:configuration sdx:name="linux"
+                           sdx:displayName="linux"
+                           sdx:defaultProcessorGroup="linux_a53"
+                           sdx:runtimes="cpp">
+            <sdx:description>Linux</sdx:description>
+            <sdx:prebuilt sdx:data="prebuilt"/>
+            <sdx:bootImages sdx:default="standard">
+                <sdx:image sdx:name="standard"
+                            sdx:bif="linux/boot/linux.bif"
+                            sdx:imageData="linux/linux_a53/image"
+                            sdx:mountPath="/mnt"
+                            sdx:readme="linux/boot/generic.readme"
+                            />
+            </sdx:bootImages>
+            <sdx:processorGroup sdx:name="linux_a53"
+                                sdx:displayName="linux_a53"
+                                sdx:cpuType="cortex-a53">
+                <sdx:os sdx:name="linux"
+                        sdx:displayName="linux"
+			sdx:sysRoot="linux/linux_a53/sysroot"
+                />
+            </sdx:processorGroup>
+        </sdx:configuration>
+    </sdx:systemConfigurations>
+</sdx:platform>

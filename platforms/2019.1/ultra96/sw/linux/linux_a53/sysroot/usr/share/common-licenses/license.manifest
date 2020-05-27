@@ -1,0 +1,870 @@
+PACKAGE NAME: attr-lic
+PACKAGE VERSION: 2.4.47
+RECIPE NAME: attr
+LICENSE: LGPLv2.1+ & GPLv2+
+
+PACKAGE NAME: base-files
+PACKAGE VERSION: 3.0.14
+RECIPE NAME: base-files
+LICENSE: GPLv2
+
+PACKAGE NAME: base-files-lic
+PACKAGE VERSION: 3.0.14
+RECIPE NAME: base-files
+LICENSE: GPLv2
+
+PACKAGE NAME: base-passwd
+PACKAGE VERSION: 3.5.29
+RECIPE NAME: base-passwd
+LICENSE: GPLv2+
+
+PACKAGE NAME: base-passwd-lic
+PACKAGE VERSION: 3.5.29
+RECIPE NAME: base-passwd
+LICENSE: GPLv2+
+
+PACKAGE NAME: bash
+PACKAGE VERSION: 4.4.18
+RECIPE NAME: bash
+LICENSE: GPLv3+
+
+PACKAGE NAME: bash-lic
+PACKAGE VERSION: 4.4.18
+RECIPE NAME: bash
+LICENSE: GPLv3+
+
+PACKAGE NAME: bridge-utils
+PACKAGE VERSION: 1.6
+RECIPE NAME: bridge-utils
+LICENSE: GPLv2
+
+PACKAGE NAME: bridge-utils-lic
+PACKAGE VERSION: 1.6
+RECIPE NAME: bridge-utils
+LICENSE: GPLv2
+
+PACKAGE NAME: busybox
+PACKAGE VERSION: 1.29.2
+RECIPE NAME: busybox
+LICENSE: GPLv2 & bzip2
+
+PACKAGE NAME: busybox-hwclock
+PACKAGE VERSION: 1.29.2
+RECIPE NAME: busybox
+LICENSE: GPLv2 & bzip2
+
+PACKAGE NAME: busybox-inetd
+PACKAGE VERSION: 1.29.2
+RECIPE NAME: busybox
+LICENSE: GPLv2 & bzip2
+
+PACKAGE NAME: busybox-lic
+PACKAGE VERSION: 1.29.2
+RECIPE NAME: busybox
+LICENSE: GPLv2 & bzip2
+
+PACKAGE NAME: busybox-syslog
+PACKAGE VERSION: 1.29.2
+RECIPE NAME: busybox
+LICENSE: GPLv2 & bzip2
+
+PACKAGE NAME: busybox-udhcpc
+PACKAGE VERSION: 1.29.2
+RECIPE NAME: busybox
+LICENSE: GPLv2 & bzip2
+
+PACKAGE NAME: canutils
+PACKAGE VERSION: 4.0.6
+RECIPE NAME: canutils
+LICENSE: GPLv2
+
+PACKAGE NAME: canutils-lic
+PACKAGE VERSION: 4.0.6
+RECIPE NAME: canutils
+LICENSE: GPLv2
+
+PACKAGE NAME: dropbear
+PACKAGE VERSION: 2018.76
+RECIPE NAME: dropbear
+LICENSE: MIT & BSD-3-Clause & BSD-2-Clause & PD
+
+PACKAGE NAME: dropbear-lic
+PACKAGE VERSION: 2018.76
+RECIPE NAME: dropbear
+LICENSE: MIT & BSD-3-Clause & BSD-2-Clause & PD
+
+PACKAGE NAME: elfutils-lic
+PACKAGE VERSION: 0.175
+RECIPE NAME: elfutils
+LICENSE: (GPLv3 & Elfutils-Exception)
+
+PACKAGE NAME: eudev
+PACKAGE VERSION: 3.2.5
+RECIPE NAME: eudev
+LICENSE: GPLv2.0+ & LGPL-2.1+
+
+PACKAGE NAME: eudev-lic
+PACKAGE VERSION: 3.2.5
+RECIPE NAME: eudev
+LICENSE: GPLv2.0+ & LGPL-2.1+
+
+PACKAGE NAME: gcc-runtime-lic
+PACKAGE VERSION: 8.2.0
+RECIPE NAME: gcc-runtime
+LICENSE: GPL-3.0-with-GCC-exception
+
+PACKAGE NAME: glibc
+PACKAGE VERSION: 2.28
+RECIPE NAME: glibc
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: glibc-lic
+PACKAGE VERSION: 2.28
+RECIPE NAME: glibc
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: hellopm
+PACKAGE VERSION: 0.1
+RECIPE NAME: hellopm
+LICENSE: Proprietary
+
+PACKAGE NAME: hellopm-lic
+PACKAGE VERSION: 0.1
+RECIPE NAME: hellopm
+LICENSE: Proprietary
+
+PACKAGE NAME: init-ifupdown
+PACKAGE VERSION: 1.0
+RECIPE NAME: init-ifupdown
+LICENSE: GPLv2
+
+PACKAGE NAME: init-ifupdown-lic
+PACKAGE VERSION: 1.0
+RECIPE NAME: init-ifupdown
+LICENSE: GPLv2
+
+PACKAGE NAME: initscripts
+PACKAGE VERSION: 1.0
+RECIPE NAME: initscripts
+LICENSE: GPLv2
+
+PACKAGE NAME: initscripts-functions
+PACKAGE VERSION: 1.0
+RECIPE NAME: initscripts
+LICENSE: GPLv2
+
+PACKAGE NAME: initscripts-lic
+PACKAGE VERSION: 1.0
+RECIPE NAME: initscripts
+LICENSE: GPLv2
+
+PACKAGE NAME: iproute2
+PACKAGE VERSION: 4.19.0
+RECIPE NAME: iproute2
+LICENSE: GPLv2+
+
+PACKAGE NAME: iproute2-lic
+PACKAGE VERSION: 4.19.0
+RECIPE NAME: iproute2
+LICENSE: GPLv2+
+
+PACKAGE NAME: kernel-base
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-br-netfilter-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-crypto-engine-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-echainiv-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-efivarfs-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-g-ether-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-g-mass-storage-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-main-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-lcd-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-mtd-nandbiterrs-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-mtd-nandecctest-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-mtd-oobtest-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-mtd-pagetest-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-mtd-readtest-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-mtd-speedtest-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-mtd-stresstest-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-mtd-subpagetest-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-mtd-torturetest-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-conntrack-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-conntrack-netlink-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-defrag-ipv4-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-defrag-ipv6-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-nat-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-nat-ipv4-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-nat-ipv6-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nfs-layout-flexfiles-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-remoteproc-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-rpmsg-char-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-rpmsg-core-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-uio-dmem-genirq-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-uio-pdrv-genirq-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-usb-f-ecm-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-usb-f-ecm-subset-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-usb-f-rndis-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-virtio-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-virtio-crypto-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-virtio-ring-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-virtio-rpmsg-bus-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xen-blkback-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xen-gntalloc-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xen-gntdev-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xen-netback-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xen-scsifront-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xen-wdt-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xlnx-vcu-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xlnx-vcu-clk-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xlnx-vcu-core-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-connmark-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-conntrack-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-redirect-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-state-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-zynqmp-r5-remoteproc-4.19.0-xilinx-v2019.1
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-modules
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: kmod-lic
+PACKAGE VERSION: 25+gitAUTOINC+aca4eca103
+RECIPE NAME: kmod
+LICENSE: GPL-2.0+ & LGPL-2.1+
+
+PACKAGE NAME: libattr
+PACKAGE VERSION: 2.4.47
+RECIPE NAME: attr
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: libcap
+PACKAGE VERSION: 2.25
+RECIPE NAME: libcap
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: libcap-lic
+PACKAGE VERSION: 2.25
+RECIPE NAME: libcap
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: libelf
+PACKAGE VERSION: 0.175
+RECIPE NAME: elfutils
+LICENSE: (GPLv3 & Elfutils-Exception)
+
+PACKAGE NAME: libgcc
+PACKAGE VERSION: 8.2.0
+RECIPE NAME: libgcc
+LICENSE: GPL-3.0-with-GCC-exception
+
+PACKAGE NAME: libgcc-lic
+PACKAGE VERSION: 8.2.0
+RECIPE NAME: libgcc
+LICENSE: GPL-3.0-with-GCC-exception & GPLv3
+
+PACKAGE NAME: libkmod
+PACKAGE VERSION: 25+gitAUTOINC+aca4eca103
+RECIPE NAME: kmod
+LICENSE: LGPL-2.1+
+
+PACKAGE NAME: libmnl
+PACKAGE VERSION: 1.0.4
+RECIPE NAME: libmnl
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: libmnl-lic
+PACKAGE VERSION: 1.0.4
+RECIPE NAME: libmnl
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: libpam
+PACKAGE VERSION: 1.3.0
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: libpam-lic
+PACKAGE VERSION: 1.3.0
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: libpam-runtime
+PACKAGE VERSION: 1.3.0
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: libpci
+PACKAGE VERSION: 3.6.2
+RECIPE NAME: pciutils
+LICENSE: GPLv2+
+
+PACKAGE NAME: libsocketcan
+PACKAGE VERSION: 0.0.10
+RECIPE NAME: libsocketcan
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libsocketcan-lic
+PACKAGE VERSION: 0.0.10
+RECIPE NAME: libsocketcan
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libstdc++
+PACKAGE VERSION: 8.2.0
+RECIPE NAME: gcc-runtime
+LICENSE: GPL-3.0-with-GCC-exception
+
+PACKAGE NAME: libxcrypt
+PACKAGE VERSION: 4.1.1
+RECIPE NAME: libxcrypt
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libxcrypt-lic
+PACKAGE VERSION: 4.1.1
+RECIPE NAME: libxcrypt
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: linux-firmware-lic
+PACKAGE VERSION: 0.0+gitAUTOINC+1baa34868b
+RECIPE NAME: linux-firmware
+LICENSE: Firmware-Abilis     & Firmware-adsp_sst     & Firmware-agere     & Firmware-amdgpu     & Firmware-amd-ucode     & Firmware-atheros_firmware     & Firmware-atmel     & Firmware-broadcom_bcm43xx     & Firmware-ca0132     & Firmware-cavium     & Firmware-chelsio_firmware     & Firmware-cw1200     & Firmware-cypress     & Firmware-dib0700     & Firmware-e100     & Firmware-ene_firmware     & Firmware-fw_sst_0f28     & Firmware-go7007     & Firmware-GPLv2     & Firmware-hfi1_firmware     & Firmware-i2400m     & Firmware-i915     & Firmware-ibt_firmware     & Firmware-it913x     & Firmware-iwlwifi_firmware     & Firmware-IntcSST2     & Firmware-kaweth     & Firmware-Marvell     & Firmware-moxa     & Firmware-myri10ge_firmware     & Firmware-netronome     & Firmware-nvidia     & Firmware-OLPC     & Firmware-ath9k-htc     & Firmware-phanfw     & Firmware-qat     & Firmware-qcom     & Firmware-qla1280     & Firmware-qla2xxx     & Firmware-qualcommAthos_ar3k     & Firmware-qualcommAthos_ath10k     & Firmware-r8a779x_usb3     & Firmware-radeon     & Firmware-ralink_a_mediatek_company_firmware     & Firmware-ralink-firmware     & Firmware-rtlwifi_firmware     & Firmware-imx-sdma_firmware     & Firmware-siano     & Firmware-tda7706-firmware     & Firmware-ti-connectivity     & Firmware-ti-keystone     & Firmware-ueagle-atm4-firmware     & Firmware-via_vt6656     & Firmware-wl1251     & Firmware-xc4000     & Firmware-xc5000     & Firmware-xc5000c     & WHENCE 
+
+PACKAGE NAME: linux-firmware-ti-connectivity-license
+PACKAGE VERSION: 0.0+gitAUTOINC+1baa34868b
+RECIPE NAME: linux-firmware
+LICENSE: Firmware-ti-connectivity
+
+PACKAGE NAME: linux-firmware-wl18xx
+PACKAGE VERSION: 0.0+gitAUTOINC+1baa34868b
+RECIPE NAME: linux-firmware
+LICENSE: Firmware-ti-connectivity
+
+PACKAGE NAME: linux-firmware-wlcommon
+PACKAGE VERSION: 0.0+gitAUTOINC+1baa34868b
+RECIPE NAME: linux-firmware
+LICENSE: Firmware-ti-connectivity
+
+PACKAGE NAME: linux-xlnx-lic
+PACKAGE VERSION: 4.19-xilinx-v2019.1+gitAUTOINC+9811303824
+RECIPE NAME: linux-xlnx
+LICENSE: GPLv2
+
+PACKAGE NAME: modutils-initscripts
+PACKAGE VERSION: 1.0
+RECIPE NAME: modutils-initscripts
+LICENSE: PD
+
+PACKAGE NAME: modutils-initscripts-lic
+PACKAGE VERSION: 1.0
+RECIPE NAME: modutils-initscripts
+LICENSE: PD
+
+PACKAGE NAME: mtd-utils
+PACKAGE VERSION: 2.0.2+AUTOINC+bc63d36e39
+RECIPE NAME: mtd-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: mtd-utils-lic
+PACKAGE VERSION: 2.0.2+AUTOINC+bc63d36e39
+RECIPE NAME: mtd-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: ncurses-libtinfo
+PACKAGE VERSION: 6.1+20180630
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: ncurses-lic
+PACKAGE VERSION: 6.1+20180630
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: ncurses-terminfo-base
+PACKAGE VERSION: 6.1+20180630
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: netbase
+PACKAGE VERSION: 5.4
+RECIPE NAME: netbase
+LICENSE: GPLv2
+
+PACKAGE NAME: netbase-lic
+PACKAGE VERSION: 5.4
+RECIPE NAME: netbase
+LICENSE: GPLv2
+
+PACKAGE NAME: openssh-lic
+PACKAGE VERSION: 7.8p1+git
+RECIPE NAME: openssh
+LICENSE: BSD
+
+PACKAGE NAME: openssh-sftp-server
+PACKAGE VERSION: 7.8p1+git
+RECIPE NAME: openssh
+LICENSE: BSD
+
+PACKAGE NAME: opkg-utils-lic
+PACKAGE VERSION: 0.3.6
+RECIPE NAME: opkg-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: packagegroup-core-boot
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-core-boot
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-core-boot-lic
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-core-boot
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-core-ssh-dropbear
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-core-ssh-dropbear
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-core-ssh-dropbear-lic
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-core-ssh-dropbear
+LICENSE: MIT
+
+PACKAGE NAME: pam-plugin-deny
+PACKAGE VERSION: 1.3.0
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-env
+PACKAGE VERSION: 1.3.0
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-faildelay
+PACKAGE VERSION: 1.3.0
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-group
+PACKAGE VERSION: 1.3.0
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-lastlog
+PACKAGE VERSION: 1.3.0
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-limits
+PACKAGE VERSION: 1.3.0
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-mail
+PACKAGE VERSION: 1.3.0
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-motd
+PACKAGE VERSION: 1.3.0
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-nologin
+PACKAGE VERSION: 1.3.0
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-permit
+PACKAGE VERSION: 1.3.0
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-rootok
+PACKAGE VERSION: 1.3.0
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-securetty
+PACKAGE VERSION: 1.3.0
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-shells
+PACKAGE VERSION: 1.3.0
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-unix
+PACKAGE VERSION: 1.3.0
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-warn
+PACKAGE VERSION: 1.3.0
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pciutils
+PACKAGE VERSION: 3.6.2
+RECIPE NAME: pciutils
+LICENSE: GPLv2+
+
+PACKAGE NAME: pciutils-ids
+PACKAGE VERSION: 3.6.2
+RECIPE NAME: pciutils
+LICENSE: GPLv2+
+
+PACKAGE NAME: pciutils-lic
+PACKAGE VERSION: 3.6.2
+RECIPE NAME: pciutils
+LICENSE: GPLv2+
+
+PACKAGE NAME: run-postinsts
+PACKAGE VERSION: 1.0
+RECIPE NAME: run-postinsts
+LICENSE: MIT
+
+PACKAGE NAME: run-postinsts-lic
+PACKAGE VERSION: 1.0
+RECIPE NAME: run-postinsts
+LICENSE: MIT
+
+PACKAGE NAME: sds-lib
+PACKAGE VERSION: 1.0
+RECIPE NAME: sds-lib
+LICENSE: MIT
+
+PACKAGE NAME: sds-lib-lic
+PACKAGE VERSION: 1.0
+RECIPE NAME: sds-lib
+LICENSE: MIT
+
+PACKAGE NAME: shadow
+PACKAGE VERSION: 4.6
+RECIPE NAME: shadow
+LICENSE: BSD | Artistic-1.0
+
+PACKAGE NAME: shadow-base
+PACKAGE VERSION: 4.6
+RECIPE NAME: shadow
+LICENSE: BSD | Artistic-1.0
+
+PACKAGE NAME: shadow-lic
+PACKAGE VERSION: 4.6
+RECIPE NAME: shadow
+LICENSE: BSD | Artistic-1.0
+
+PACKAGE NAME: shadow-securetty
+PACKAGE VERSION: 4.6
+RECIPE NAME: shadow-securetty
+LICENSE: MIT
+
+PACKAGE NAME: shadow-securetty-lic
+PACKAGE VERSION: 4.6
+RECIPE NAME: shadow-securetty
+LICENSE: MIT
+
+PACKAGE NAME: sysvinit
+PACKAGE VERSION: 2.88dsf
+RECIPE NAME: sysvinit
+LICENSE: GPLv2+
+
+PACKAGE NAME: sysvinit-inittab
+PACKAGE VERSION: 2.88dsf
+RECIPE NAME: sysvinit-inittab
+LICENSE: GPLv2
+
+PACKAGE NAME: sysvinit-inittab-lic
+PACKAGE VERSION: 2.88dsf
+RECIPE NAME: sysvinit-inittab
+LICENSE: GPLv2
+
+PACKAGE NAME: sysvinit-lic
+PACKAGE VERSION: 2.88dsf
+RECIPE NAME: sysvinit
+LICENSE: GPLv2+
+
+PACKAGE NAME: sysvinit-pidof
+PACKAGE VERSION: 2.88dsf
+RECIPE NAME: sysvinit
+LICENSE: GPLv2+
+
+PACKAGE NAME: tcf-agent
+PACKAGE VERSION: 1.7.0+gitAUTOINC+dad3a6f568
+RECIPE NAME: tcf-agent
+LICENSE: EPL-1.0 | EDL-1.0
+
+PACKAGE NAME: tcf-agent-lic
+PACKAGE VERSION: 1.7.0+gitAUTOINC+dad3a6f568
+RECIPE NAME: tcf-agent
+LICENSE: EPL-1.0 | EDL-1.0
+
+PACKAGE NAME: udev-extraconf
+PACKAGE VERSION: 1.1
+RECIPE NAME: udev-extraconf
+LICENSE: MIT
+
+PACKAGE NAME: udev-extraconf-lic
+PACKAGE VERSION: 1.1
+RECIPE NAME: udev-extraconf
+LICENSE: MIT
+
+PACKAGE NAME: update-alternatives-opkg
+PACKAGE VERSION: 0.3.6
+RECIPE NAME: opkg-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: update-rc.d
+PACKAGE VERSION: 0.8
+RECIPE NAME: update-rc.d
+LICENSE: GPLv2+
+
+PACKAGE NAME: update-rc.d-lic
+PACKAGE VERSION: 0.8
+RECIPE NAME: update-rc.d
+LICENSE: GPLv2+
+
+PACKAGE NAME: util-linux-libblkid
+PACKAGE VERSION: 2.32.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD
+
+PACKAGE NAME: util-linux-libuuid
+PACKAGE VERSION: 2.32.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD
+
+PACKAGE NAME: util-linux-lic
+PACKAGE VERSION: 2.32.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD
+
+PACKAGE NAME: util-linux-sulogin
+PACKAGE VERSION: 2.32.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD
+
+PACKAGE NAME: watchdog-init
+PACKAGE VERSION: 1.0
+RECIPE NAME: watchdog-init
+LICENSE: Proprietary
+
+PACKAGE NAME: watchdog-init-lic
+PACKAGE VERSION: 1.0
+RECIPE NAME: watchdog-init
+LICENSE: Proprietary
+
+PACKAGE NAME: zlib
+PACKAGE VERSION: 1.2.11
+RECIPE NAME: zlib
+LICENSE: Zlib
+
+PACKAGE NAME: zlib-lic
+PACKAGE VERSION: 1.2.11
+RECIPE NAME: zlib
+LICENSE: Zlib
+

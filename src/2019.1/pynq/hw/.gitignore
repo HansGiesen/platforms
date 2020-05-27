@@ -1,0 +1,10 @@
+pynq
+NA
+.Xil
+pynq-z1
+pynq-z1.zip
+pynq.dsa
+vivado*.log
+vivado*.jou
+vivado*.str
+prj

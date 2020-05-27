@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sdx:platform sdx:vendor="xilinx.com"
+              sdx:library="sdx"
+              sdx:name="pynq"
+              sdx:version="1.0"
+              sdx:schemaVersion="1.0"
+              xmlns:sdx="http://www.xilinx.com/sdx">
+    <sdx:description>
+Pynq-Z1
+    </sdx:description>
+    <sdx:systemConfigurations sdx:defaultConfiguration="linux">
+        <sdx:configuration sdx:name="linux"
+                           sdx:displayName="linux"
+                           sdx:defaultProcessorGroup="linux_a9"
+                           sdx:runtimes="cpp">
+            <sdx:description>Linux</sdx:description>
+            <sdx:prebuilt sdx:data="prebuilt"/>
+            <sdx:bootImages sdx:default="standard">
+                <sdx:image sdx:name="standard"
+                            sdx:bif="linux/boot/linux.bif"
+                            sdx:imageData="linux/linux_a9/image"
+                            sdx:mountPath="/mnt"
+                            sdx:readme="linux/boot/generic.readme"
+                            />
+            </sdx:bootImages>
+            <sdx:processorGroup sdx:name="linux_a9"
+                                sdx:displayName="linux_a9"
+                                sdx:cpuType="cortex-a9">
+                <sdx:os sdx:name="linux"
+                        sdx:displayName="linux"
+			sdx:sysRoot="linux/linux_a9/sysroot"
+                />
+            </sdx:processorGroup>
+        </sdx:configuration>
+    </sdx:systemConfigurations>
+</sdx:platform>
