@@ -46,7 +46,7 @@ sudo cp platforms/2019.1/${PLATFORM}/sw/linux/linux_a53/image/image.ub ${MOUNT_D
 sudo umount ${MOUNT_DIR}
 
 sudo mount ${DEVICE}2 ${MOUNT_DIR}
-sudo cp -a platforms/2019.1/zcu102/sw/linux/linux_a53/sysroot/* ${MOUNT_DIR}
+sudo cp -a platforms/2019.1/${PLATFORM}/sw/linux/linux_a53/sysroot/* ${MOUNT_DIR}
 sudo umount ${MOUNT_DIR}
 
 rmdir ${MOUNT_DIR}
